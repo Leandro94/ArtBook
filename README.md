@@ -15,8 +15,6 @@ Esse projeto foi desenvolvido em Kotlin, utilizando os seguintes recursos da lin
 
 * [Navigation](https://developer.android.com/guide/navigation)
 
-* [Safeargs](https://developer.android.com/guide/navigation/navigation-pass-data)
-
 * [Kotlin Coroutines](https://developer.android.com/kotlin/coroutines)
 
 * [MVVM Architecture](https://developer.android.com/jetpack/guide)
