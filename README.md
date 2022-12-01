@@ -33,5 +33,5 @@ Esse projeto foi desenvolvido em Kotlin, utilizando os seguintes recursos da lin
 
 * [Unit tests](https://developer.android.com/training/testing/local-tests)
 
-* [Unit tests](https://robolectric.org/)
+* [Robolectric](https://robolectric.org/)
    
