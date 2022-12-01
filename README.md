@@ -3,7 +3,7 @@
 </h1>
 
 
-## 🎯 Motivo
+## 🎯 Sobre
 
 Projeto criado para abordar a criação de testes com o Hilt no desenvolvimento Android.
 
