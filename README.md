@@ -3,9 +3,9 @@
 </h1>
 
 
-## 🎯 Sobre
+## 🎯 Motivo
 
-Projeto criado para praticar o desenvolvimento de testes no Android.
+Projeto criado para abordar a criação de testes com o Hilt no desenvolvimento Android.
 
 ## 🚀 Tecnologias
 
